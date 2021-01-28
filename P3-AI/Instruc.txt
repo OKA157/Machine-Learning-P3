@@ -1,0 +1,5 @@
+Para ver los entornos:
+conda info --envs
+
+Para acceder al Jupyter Notebook
+jupyter notebook

@@ -1,0 +1,14 @@
+Before "Finally we get the R2 score"
+
+#df4 = pd.DataFrame(np.concatenate(x))
+#df2 = df[['Age', 'Overall', 'Potential', 'Wage', 'Special', 'International Reputation', 'Weak Foot', 'Skill Moves', 'Height', 'Weight', 'Crossing', 'Finishing', 'HeadingAccuracy', 'ShortPassing', 'Volleys', 'Dribbling', 'Curve', 'FKAccuracy', 'LongPassing', 'BallControl', 'Acceleration', 'SprintSpeed', 'Agility', 'Reactions', 'Balance', 'ShotPower', 'Jumping', 'Stamina', 'Strength', 'LongShots', 'Aggression', 'Interceptions', 'Positioning', 'Vision', 'Penalties', 'Composure', 'Marking', 'StandingTackle', 'SlidingTackle', 'GKDiving', 'GKHandling', 'GKKicking', 'GKPositioning', 'GKReflexes', 'Release Clause']].copy()
+
+#scaler = StandardScaler()
+#X_train = pd.DataFrame(scaler.fit_transform(np.array(X_train).reshape(-1, 1)), columns=features)
+#X_test = pd.DataFrame(scaler.fit_transform(np.array(X_test).reshape(-1, 1)), columns=features)
+#scaled_df = scaler.fit_transform(df2)
+#scaled_df = pd.DataFrame(scaled_df, columns=norm_features)
+#scaler = StandardScaler()
+
+#y_train = pd.DataFrame(scaler.fit_transform(np.array(y_train).reshape(-1, 1)), columns=['Value'])
+#y_test = pd.DataFrame(scaler.fit_transform(np.array(y_test).reshape(-1, 1)), columns=['Value'])
